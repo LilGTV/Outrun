@@ -14,5 +14,5 @@ Combat blends melee and ranged options, requiring players to adapt their approac
 - **X** -> Slo-Mo (slow down time for a few seconds; you move at the same speed while everyone else is considerably slowed down)
 - **Right Mouse Button** -> Sword attack (kills enemies)
 - **Left Mouse Button** -> Gun attack (slows down enemies)
-- Enemies can only be eliminated via melee (sword) attacks, ranged (gun) attacks only slow them down for a second, allowing you to reposition yourself
+- Enemies may only be eliminated via melee (sword) attacks, ranged (gun) attacks only slow them down for a second, allowing you to reposition yourself
 - Gunner enemies can only be eliminated while in Slo-Mo mode, they also cannot be stunned
