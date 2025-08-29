@@ -1,5 +1,5 @@
 # Outrun
-Due to file size limitations, the game files can be found [here](https://mega.nz/file/i34HRTjR#5eZNPsOQ9POFjT55BlLaIFsBxGMuORcx2Kj0KRskVOk)
+Due to file size limitations on GitHub, the game files can be found [here](https://mega.nz/file/i34HRTjR#5eZNPsOQ9POFjT55BlLaIFsBxGMuORcx2Kj0KRskVOk)
 
 Outrun is a fast-paced 3D action demo built in Unreal Engine as part of a bachelor’s thesis project. The game challenges players to eliminate enemies in enclosed arenas while relying on precision, quick decision-making, and strategic use of abilities.
 
